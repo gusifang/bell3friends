@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1500" viewBox="0 0 1600 1500" role="img" aria-labelledby="t d">
+<title id="t">The experimental arena</title>
+<desc id="d">A circular orchestration: a physicist centrally prepares three systems, independently tested at three sites, then verifies recorded outcomes.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F7FAFD"/><stop offset="1" stop-color="#F1F6FA"/></linearGradient>
+ <linearGradient id="navy" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#193D5F"/><stop offset="1" stop-color="#276186"/></linearGradient>
+ <linearGradient id="pur" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#63459E"/><stop offset="1" stop-color="#865FC2"/></linearGradient>
+ <filter id="shade" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#234660" flood-opacity="0.08"/></filter>
+ <marker id="out" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#DB8553" stroke-width="2" stroke-linecap="round"/></marker>
+ <marker id="back" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#138B86" stroke-width="2" stroke-linecap="round"/></marker>
+ <marker id="nav" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#56788F" stroke-width="2" stroke-linecap="round"/></marker>
+ </defs>
+<rect x="0" y="0" width="1600" height="1500" rx="0" fill="url(#bg)" stroke="none" stroke-width="1"/>
+<rect x="70" y="37" width="160" height="35" rx="17.5" fill="#E9F3FA" stroke="#C6DBEA" stroke-width="1.3"/>
+<text x="150.0" y="60.1" font-family="Inter, Aptos, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#246C9B">LAYOUT 03</text>
+<text x="70" y="121" font-family="Inter, Aptos, Arial, sans-serif" font-size="42" font-weight="800" text-anchor="start" fill="#163753">Turning the impossible game into an experimental setup</text>
+<text x="72" y="159" font-family="Inter, Aptos, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#63758A">ARENA  •  Three independent measurement stations orbit one physicist</text>
+<path d="M70 181 L1530 181" stroke="#D7E2EA" stroke-width="2" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="89" y="222" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#DB8553" letter-spacing="1.1">PREPARE &amp; SEND</text>
+<text x="1330" y="222" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#138B86" letter-spacing="1.1">MEASURE &amp; RETURN</text>
+<circle cx="800" cy="504" r="324" fill="none" stroke="#D6E5EC" stroke-width="2"/>
+<circle cx="800" cy="504" r="265" fill="none" stroke="#CADDE7" stroke-width="2" stroke-dasharray="8 13"/>
+<path d="M749 419 V338" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<path d="M852 338 V419" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<path d="M662 493 Q586 505 476 619" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<path d="M483 690 Q598 611 659 577" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<path d="M940 493 Q1022 518 1122 619" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<path d="M1118 690 Q1010 614 938 577" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<rect x="630" y="190" width="340" height="151" rx="23" fill="#FFFFFF" stroke="#C9DBE7" stroke-width="2" filter="url(#shade)"/>
+<rect x="631" y="191" width="338" height="46" rx="21" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<rect x="631" y="217" width="338" height="20" rx="0" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<text x="654" y="222" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="800" text-anchor="start" fill="#1B547A" letter-spacing="1">LOCATION A</text>
+<text x="654" y="273" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="450" text-anchor="start" fill="#63758A">Independent choice</text>
+<rect x="654" y="290" width="292" height="36" rx="18.0" fill="#E8F7F3" stroke="#BCE1D5" stroke-width="1.3"/>
+<text x="800.0" y="314.3" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">X or Y  →  +1 or −1</text>
+<rect x="123" y="605" width="360" height="151" rx="23" fill="#FFFFFF" stroke="#C9DBE7" stroke-width="2" filter="url(#shade)"/>
+<rect x="124" y="606" width="358" height="46" rx="21" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<rect x="124" y="632" width="358" height="20" rx="0" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<text x="147" y="637" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="800" text-anchor="start" fill="#1B547A" letter-spacing="1">LOCATION B</text>
+<text x="147" y="688" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="450" text-anchor="start" fill="#63758A">Independent choice</text>
+<rect x="147" y="705" width="312" height="36" rx="18.0" fill="#E8F7F3" stroke="#BCE1D5" stroke-width="1.3"/>
+<text x="303.0" y="729.3" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">X or Y  →  +1 or −1</text>
+<rect x="1117" y="605" width="360" height="151" rx="23" fill="#FFFFFF" stroke="#C9DBE7" stroke-width="2" filter="url(#shade)"/>
+<rect x="1118" y="606" width="358" height="46" rx="21" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<rect x="1118" y="632" width="358" height="20" rx="0" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<text x="1141" y="637" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="800" text-anchor="start" fill="#1B547A" letter-spacing="1">LOCATION C</text>
+<text x="1141" y="688" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="450" text-anchor="start" fill="#63758A">Independent choice</text>
+<rect x="1141" y="705" width="312" height="36" rx="18.0" fill="#E8F7F3" stroke="#BCE1D5" stroke-width="1.3"/>
+<text x="1297.0" y="729.3" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">X or Y  →  +1 or −1</text>
+<rect x="655" y="408" width="290" height="181" rx="29" fill="url(#navy)" stroke="#2C6688" stroke-width="2" filter="url(#shade)"/>
+<circle cx="800" cy="446" r="20" fill="#ECF5FB" stroke="none" stroke-width="1"/>
+<path d="M762 495 Q800 454 838 495" stroke="#ECF5FB" stroke-width="6" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="800" y="531" font-family="Inter, Aptos, Arial, sans-serif" font-size="26" font-weight="800" text-anchor="middle" fill="#FFF">PHYSICIST</text>
+<text x="800" y="562" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="450" text-anchor="middle" fill="#DBEDFA">Sends “something” × 3</text>
+<rect x="539" y="376" width="156" height="39" rx="19.5" fill="#FCF1E9" stroke="#EFCCB6" stroke-width="1.3"/>
+<text x="617.0" y="401.8" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#DB8553">PREPARE</text>
+<rect x="910" y="377" width="151" height="39" rx="19.5" fill="#E8F7F3" stroke="#B6DFD4" stroke-width="1.3"/>
+<text x="985.5" y="402.8" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">RETURN</text>
+<rect x="555" y="687" width="489" height="91" rx="18" fill="#FFF" stroke="#D5E2EA" stroke-width="1.5"/>
+<text x="800" y="722" font-family="Inter, Aptos, Arial, sans-serif" font-size="24" font-weight="750" text-anchor="middle" fill="#1D3C53">Three measurement records</text>
+<text x="800" y="751" font-family="Inter, Aptos, Arial, sans-serif" font-size="20" font-weight="600" text-anchor="middle" fill="#138B86">(X or Y, +1 or −1)   →   physicist</text>
+<path d="M800 780 V817" stroke="#56788F" stroke-width="3" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#nav)"/>
+<rect x="84" y="819" width="1432" height="225" rx="23" fill="#FFF" stroke="#D6E1E9" stroke-width="2" filter="url(#shade)"/>
+<text x="113" y="859" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#246C9B" letter-spacing="1.1">04  SORT THE MEASUREMENT TRIPLES</text>
+<rect x="111" y="886" width="830" height="118" rx="17" fill="#E9F6EE" stroke="#B8DCC7" stroke-width="1.7"/>
+<rect x="963" y="886" width="523" height="118" rx="17" fill="#FCEFEF" stroke="#ECC8C8" stroke-width="1.7"/>
+<text x="136" y="922" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#2C7F5A" letter-spacing="1.1">ACCEPTED</text>
+<text x="136" y="967" font-family="Inter, Aptos, Arial, sans-serif" font-size="28" font-weight="700" text-anchor="start" fill="#245C43">XXX       XYY       YXY       YYX</text>
+<text x="990" y="922" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#B75F62" letter-spacing="1.1">DISCARDED</text>
+<text x="990" y="967" font-family="Inter, Aptos, Arial, sans-serif" font-size="24" font-weight="700" text-anchor="start" fill="#934E50">XXY   XYX   YXX   YYY</text>
+<path d="M800 1046 V1063" stroke="#56788F" stroke-width="3" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#nav)"/>
+<rect x="84" y="1065" width="1432" height="118" rx="21" fill="#E9F2F8" stroke="#BED6E6" stroke-width="2"/>
+<text x="114" y="1104" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#246C9B" letter-spacing="1.1">05  VERIFY THE PRODUCT RULE FOR ACCEPTED MEASUREMENTS</text>
+<text x="800" y="1152" font-family="Inter, Aptos, Arial, sans-serif" font-size="27" font-weight="750" text-anchor="middle" fill="#204D6B">XXX → −1      •      XYY → +1      •      YXY → +1      •      YYX → +1</text>
+<path d="M800 1185 V1204" stroke="#56788F" stroke-width="3" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#nav)"/>
+<rect x="84" y="1206" width="699" height="124" rx="20" fill="#FCF1E9" stroke="#F0CEB9" stroke-width="1.8"/>
+<rect x="814" y="1206" width="702" height="124" rx="20" fill="#F3ECFB" stroke="#D9CAEA" stroke-width="1.8"/>
+<text x="108" y="1240" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#DB8553" letter-spacing="1.1">CLASSICAL PREPARATION</text>
+<text x="108" y="1283" font-family="Inter, Aptos, Arial, sans-serif" font-size="30" font-weight="800" text-anchor="start" fill="#99512A">≥ 25% failures</text>
+<text x="359" y="1282" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="500" text-anchor="start" fill="#925E40">among accepted rounds*</text>
+<text x="838" y="1240" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#754BBD" letter-spacing="1.1">GHZ ENTANGLED ELECTRONS</text>
+<text x="838" y="1283" font-family="Inter, Aptos, Arial, sans-serif" font-size="30" font-weight="800" text-anchor="start" fill="#604294">100% pass</text>
+<text x="1045" y="1282" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="500" text-anchor="start" fill="#735B9A">in the ideal experiment</text>
+<rect x="690" y="1371" width="220" height="42" rx="21.0" fill="#E9F3FA" stroke="#CADDEB" stroke-width="1.3"/>
+<text x="800.0" y="1399.0" font-family="Inter, Aptos, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#246C9B">↻   REPEAT</text>
+<text x="72" y="1472" font-family="Inter, Aptos, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#63758A">* Uniform, independent X/Y choices: classical failures ≥25% of accepted rounds in expectation; GHZ passes ideally.</text>
+</svg>

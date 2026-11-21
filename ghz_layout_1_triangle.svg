@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1600" height="1440" viewBox="0 0 1600 1440" role="img" aria-labelledby="t d">
+<title id="t">The triangular experiment</title>
+<desc id="d">Three locations at the vertices, a single physicist at the center, and a common verification process.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1"><stop offset="0" stop-color="#F7FAFD"/><stop offset="1" stop-color="#F1F6FA"/></linearGradient>
+ <linearGradient id="navy" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#193D5F"/><stop offset="1" stop-color="#276186"/></linearGradient>
+ <linearGradient id="pur" x1="0" x2="1" y1="0" y2="0"><stop offset="0" stop-color="#63459E"/><stop offset="1" stop-color="#865FC2"/></linearGradient>
+ <filter id="shade" x="-25%" y="-25%" width="150%" height="170%"><feDropShadow dx="0" dy="6" stdDeviation="12" flood-color="#234660" flood-opacity="0.08"/></filter>
+ <marker id="out" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#DB8553" stroke-width="2" stroke-linecap="round"/></marker>
+ <marker id="back" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#138B86" stroke-width="2" stroke-linecap="round"/></marker>
+ <marker id="nav" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="9" markerHeight="9" orient="auto-start-reverse"><path d="M 1 1 L 9 5 L 1 9" fill="none" stroke="#56788F" stroke-width="2" stroke-linecap="round"/></marker>
+ </defs>
+<rect x="0" y="0" width="1600" height="1440" rx="0" fill="url(#bg)" stroke="none" stroke-width="1"/>
+<rect x="70" y="37" width="160" height="35" rx="17.5" fill="#E9F3FA" stroke="#C6DBEA" stroke-width="1.3"/>
+<text x="150.0" y="60.1" font-family="Inter, Aptos, Arial, sans-serif" font-size="16" font-weight="700" text-anchor="middle" fill="#246C9B">LAYOUT 01</text>
+<text x="70" y="121" font-family="Inter, Aptos, Arial, sans-serif" font-size="42" font-weight="800" text-anchor="start" fill="#163753">Turning the impossible game into an experimental setup</text>
+<text x="72" y="159" font-family="Inter, Aptos, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#63758A">TRIANGLE  •  One physicist at the center; three independent locations</text>
+<path d="M70 181 L1530 181" stroke="#D7E2EA" stroke-width="2" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="95" y="220" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="start" fill="#DB8553" letter-spacing="1.1">01  PREPARE &amp; DISTRIBUTE</text>
+<text x="1130" y="220" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="800" text-anchor="start" fill="#138B86" letter-spacing="1.1">02  CHOOSE X OR Y LOCALLY</text>
+<path d="M293 340 L1312 340 L800 686 Z" stroke="#D5E2EB" stroke-width="2" opacity="0.9" fill="none" stroke-linejoin="round" stroke-linecap="round" stroke-dasharray="9 12"/>
+<path d="M666 367 Q560 291 467 290" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<path d="M467 368 Q575 489 664 444" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<path d="M935 367 Q1041 291 1133 290" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<path d="M1133 368 Q1025 489 935 444" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<path d="M746 469 C746 513 739 556 739 598" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<path d="M869 598 C869 555 864 510 857 469" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<rect x="95" y="246" width="375" height="163" rx="23" fill="#FFFFFF" stroke="#C9DBE7" stroke-width="2" filter="url(#shade)"/>
+<rect x="96" y="247" width="373" height="46" rx="21" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<rect x="96" y="273" width="373" height="20" rx="0" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<text x="119" y="278" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="800" text-anchor="start" fill="#1B547A" letter-spacing="1">LOCATION A</text>
+<text x="119" y="335" font-family="Inter, Aptos, Arial, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#63758A">Independent random choice</text>
+<rect x="119" y="354" width="327" height="39" rx="19.5" fill="#E8F7F3" stroke="#BCE1D5" stroke-width="1.3"/>
+<text x="282.5" y="379.8" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">X or Y    →    outcome ±1</text>
+<rect x="1130" y="246" width="375" height="163" rx="23" fill="#FFFFFF" stroke="#C9DBE7" stroke-width="2" filter="url(#shade)"/>
+<rect x="1131" y="247" width="373" height="46" rx="21" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<rect x="1131" y="273" width="373" height="20" rx="0" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<text x="1154" y="278" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="800" text-anchor="start" fill="#1B547A" letter-spacing="1">LOCATION B</text>
+<text x="1154" y="335" font-family="Inter, Aptos, Arial, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#63758A">Independent random choice</text>
+<rect x="1154" y="354" width="327" height="39" rx="19.5" fill="#E8F7F3" stroke="#BCE1D5" stroke-width="1.3"/>
+<text x="1317.5" y="379.8" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">X or Y    →    outcome ±1</text>
+<rect x="613" y="598" width="375" height="163" rx="23" fill="#FFFFFF" stroke="#C9DBE7" stroke-width="2" filter="url(#shade)"/>
+<rect x="614" y="599" width="373" height="46" rx="21" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<rect x="614" y="625" width="373" height="20" rx="0" fill="#EAF2F9" stroke="none" stroke-width="1"/>
+<text x="637" y="630" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="800" text-anchor="start" fill="#1B547A" letter-spacing="1">LOCATION C</text>
+<text x="637" y="687" font-family="Inter, Aptos, Arial, sans-serif" font-size="20" font-weight="500" text-anchor="start" fill="#63758A">Independent random choice</text>
+<rect x="637" y="706" width="327" height="39" rx="19.5" fill="#E8F7F3" stroke="#BCE1D5" stroke-width="1.3"/>
+<text x="800.5" y="731.8" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#138B86">X or Y    →    outcome ±1</text>
+<rect x="654" y="330" width="292" height="150" rx="26" fill="url(#navy)" stroke="#275E80" stroke-width="2" filter="url(#shade)"/>
+<circle cx="800" cy="361" r="16" fill="#EAF4FD" stroke="none" stroke-width="1"/>
+<path d="M760 415 Q800 380 840 415" stroke="#EAF4FD" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round"/>
+<text x="800" y="445" font-family="Inter, Aptos, Arial, sans-serif" font-size="25" font-weight="800" text-anchor="middle" fill="#FFFFFF" letter-spacing="1.0">ONE PHYSICIST</text>
+<text x="800" y="468" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="400" text-anchor="middle" fill="#D7EAF8">Sends “something” to each</text>
+<path d="M501 783 H573" stroke="#DB8553" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#out)"/>
+<text x="589" y="790" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="650" text-anchor="start" fill="#DB8553">preparation sent</text>
+<path d="M796 783 H868" stroke="#138B86" stroke-width="5" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#back)"/>
+<text x="886" y="790" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="650" text-anchor="start" fill="#138B86">record returned</text>
+<rect x="85" y="834" width="465" height="170" rx="21" fill="#FFF" stroke="#D6E1E9" stroke-width="2" filter="url(#shade)"/>
+<text x="110" y="871" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#246C9B" letter-spacing="1.1">03  COLLECT THE RECORDS</text>
+<text x="110" y="913" font-family="Inter, Aptos, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#182B42">Each location returns its choice</text>
+<text x="110" y="943" font-family="Inter, Aptos, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#182B42">(X or Y) and outcome (+1 or −1)</text>
+<text x="110" y="973" font-family="Inter, Aptos, Arial, sans-serif" font-size="21" font-weight="400" text-anchor="start" fill="#182B42">to the same physicist.</text>
+<rect x="573" y="834" width="938" height="170" rx="21" fill="#FFF" stroke="#D6E1E9" stroke-width="2" filter="url(#shade)"/>
+<text x="598" y="871" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#246C9B" letter-spacing="1.1">04  FILTER THE TRIPLES</text>
+<rect x="598" y="889" width="476" height="50" rx="25.0" fill="#E9F6EE" stroke="#B6DCC5" stroke-width="1.3"/>
+<text x="836.0" y="921.0" font-family="Inter, Aptos, Arial, sans-serif" font-size="20" font-weight="700" text-anchor="middle" fill="#2C7F5A">ACCEPT   XXX   XYY   YXY   YYX</text>
+<rect x="1090" y="889" width="397" height="50" rx="25.0" fill="#FCEFEF" stroke="#E9C4C4" stroke-width="1.3"/>
+<text x="1288.5" y="919.95" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="700" text-anchor="middle" fill="#B75F62">DISCARD   XXY   XYX   YXX   YYY</text>
+<text x="598" y="972" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="400" text-anchor="start" fill="#63758A">Only accepted combinations proceed to the rule check.</text>
+<path d="M800 1007 V1035" stroke="#56788F" stroke-width="3" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#nav)"/>
+<rect x="85" y="1036" width="1426" height="110" rx="20" fill="#E9F2F8" stroke="#C0D7E8" stroke-width="2"/>
+<text x="111" y="1071" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#246C9B" letter-spacing="1.1">05  CHECK THE RULE FOR ACCEPTED MEASUREMENTS</text>
+<text x="800" y="1114" font-family="Inter, Aptos, Arial, sans-serif" font-size="27" font-weight="700" text-anchor="middle" fill="#1A4667">XXX → −1     |     XYY → +1     |     YXY → +1     |     YYX → +1</text>
+<path d="M800 1148 V1171" stroke="#56788F" stroke-width="3" opacity="1" fill="none" stroke-linejoin="round" stroke-linecap="round" marker-end="url(#nav)"/>
+<rect x="85" y="1172" width="695" height="124" rx="20" fill="#FCF1E9" stroke="#F0CEB9" stroke-width="1.8"/>
+<rect x="812" y="1172" width="699" height="124" rx="20" fill="#F3ECFB" stroke="#D9CAEA" stroke-width="1.8"/>
+<text x="109" y="1206" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#DB8553" letter-spacing="1.1">CLASSICAL PREPARATION</text>
+<text x="109" y="1249" font-family="Inter, Aptos, Arial, sans-serif" font-size="30" font-weight="800" text-anchor="start" fill="#99512A">≥ 25% failures</text>
+<text x="360" y="1248" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="500" text-anchor="start" fill="#925E40">among accepted rounds*</text>
+<text x="836" y="1206" font-family="Inter, Aptos, Arial, sans-serif" font-size="17" font-weight="800" text-anchor="start" fill="#754BBD" letter-spacing="1.1">GHZ ENTANGLED ELECTRONS</text>
+<text x="836" y="1249" font-family="Inter, Aptos, Arial, sans-serif" font-size="30" font-weight="800" text-anchor="start" fill="#604294">100% pass</text>
+<text x="1043" y="1248" font-family="Inter, Aptos, Arial, sans-serif" font-size="19" font-weight="500" text-anchor="start" fill="#735B9A">in the ideal experiment</text>
+<rect x="694" y="1330" width="212" height="40" rx="20.0" fill="#E9F3FA" stroke="#C8DCEB" stroke-width="1.3"/>
+<text x="800.0" y="1356.3" font-family="Inter, Aptos, Arial, sans-serif" font-size="18" font-weight="700" text-anchor="middle" fill="#246C9B">↻   REPEAT</text>
+<text x="72" y="1412" font-family="Inter, Aptos, Arial, sans-serif" font-size="16" font-weight="400" text-anchor="start" fill="#63758A">* Independent, uniformly random X/Y choices; classical systems cannot learn the choices in advance.</text>
+</svg>
